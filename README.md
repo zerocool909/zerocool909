@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 👋 Hi, I’m Aditya Raj , zerocool909
-👀 I’m interested in Machine Learning, Deep Learning, Data Science
-🌱 I’m currently working on Machine Learning, Deep Learning, Data Science projects
-💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Data Science projects
-📫 Reach me at aditya.raj.112358@gmail.com
+- 👀 I’m interested in Machine Learning, Deep Learning, Data Science
+- 🌱 I’m currently working on Machine Learning, Deep Learning, Data Science projects
+- 💞️ I’m looking to collaborate on Machine Learning, Deep Learning, Data Science projects
+- 📫 Reach me at aditya.raj.112358@gmail.com
