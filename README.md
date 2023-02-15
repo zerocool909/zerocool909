@@ -19,6 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://stackoverflow.com/users/zerocool909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zerocool909" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,4 +28,3 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerocool909&show_icons=true&locale=en&layout=compact" alt="zerocool909" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zerocool909&" alt="zerocool909" /></p>
-
