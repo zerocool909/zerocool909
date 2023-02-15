@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm aditya</h1>
-<h3 align="center">A passionate AI developer from India</h3>
+<h3 align="center">AI Architect & Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zerocool909&label=Profile%20views&color=0e75b6&style=flat" alt="zerocool909" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zerocool909" alt="zerocool909" /></a> </p>
-
-- 🔭 I’m currently working on **Computer Vision Platform**
+- 🔭 I’m currently working on **Developing components of A generic Computer Vision Platform**
 
 - 🌱 I’m currently learning **Generative AI Art**
 
@@ -15,7 +13,7 @@
 
 - 📫 How to reach me **aditya.raj.112358@gmail.com**
 
-- ⚡ Fun fact **I keep learning and improving using back-propagation**
+- ⚡ Fun fact **I spend most of my free time researching on AI**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
