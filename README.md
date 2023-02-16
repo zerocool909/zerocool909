@@ -4,9 +4,15 @@
 <h1 align="center">Hi 👋, I'm aditya</h1>
 <h3 align="center">AI Architect & Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerocool909&label=Profile%20views&color=0e75b6&style=flat" alt="zerocool909" /> </p>
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-- 🔭 I’m currently working on **Developing components of A generic Computer Vision Platform**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerocool909&label=Profile%20views&color=0e75b6&style=flat" alt="zerocool909" /> </p>
+👨‍💻About Me </br>
+<p>I am an AI/ML Engineer<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from India.</p>
+
+- 🔭 I’m currently working on **Developing components of a generic Computer Vision Platform**
 
 - 🌱 I’m currently learning **Generative AI Art**
 
