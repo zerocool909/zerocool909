@@ -1,15 +1,15 @@
 <div align="center">
 
-# 👋 Hi, I'm Aditya Raj
+# 👋 Hey, I'm Aditya Raj
 
-### **AI / ML Architect · Computer Vision · GenAI · Edge AI · Intelligent Systems**
+### **Applied AI Architect · Computer Vision · GenAI · Agentic AI · Edge Intelligence**
 
-*Building AI systems that move from research → production → edge.*
+*I build AI systems that move from **research → engineering → production → edge**.*
 
 <br/>
 
 <a href="https://github.com/zerocool909">
-  <img src="https://komarev.com/ghpvc/?username=zerocool909&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=zerocool909&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" />
 </a>
 
 </div>
@@ -18,85 +18,98 @@
 
 <div align="center">
 
-> **I don't just build models.**
->
-> **I build systems around them.**
+### 🧠 Building at the intersection of
+
+**AI × Computer Vision × GenAI × Agents × IoT × Edge Computing**
 
 </div>
 
----
+<br/>
 
-## 🧠 About Me
+<img align="right" width="360" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif"/>
 
-I'm an **AI/ML Architect and Applied AI practitioner** focused on turning emerging AI capabilities into **production-grade intelligent systems**.
+## 🚀 About Me
 
-My work sits at the intersection of:
+I'm an **AI/ML Architect and builder from India**, focused on turning emerging AI research into systems that can actually work in the real world.
 
+My interests sit across the entire AI stack:
+
+- 👁️ **Computer Vision & Multimodal AI**
 - 🤖 **Generative AI & Agentic Systems**
-- 👁️ **Computer Vision & Deep Learning**
+- 🧠 **LLMs / SLMs & Local AI**
 - 📡 **IoT & Industrial Intelligence**
-- 🧠 **Machine Learning & NLP**
-- ⚡ **Edge AI & Model Optimization**
-- ☁️ **Cloud / Distributed AI Platforms**
+- ⚡ **Edge AI & Real-Time Inference**
 - 🏭 **AI for FMCG & Manufacturing**
+- 🔬 **Applied ML & Deep Learning**
+- 🛠️ **AI Platforms & Developer Infrastructure**
 
-I'm particularly interested in the hard part of AI:
+I enjoy working on problems where **models are only one piece of the puzzle** — the interesting part is designing the systems, pipelines, agents, infrastructure and feedback loops around them.
 
-**How do we take a model and turn it into a reliable, observable, scalable product?**
+<br clear="right"/>
 
 ---
 
-## 🚀 What I'm Building / Exploring
+## 🧩 What I'm Building / Exploring
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 👁️ Computer Vision
 
-Building scalable CV systems for real-world environments.
+Building intelligent vision systems for:
 
-**Focus**
-
-`Detection` · `Segmentation` · `Tracking` · `Visual Analytics` · `Edge Inference`
+- Industrial & FMCG environments
+- Machine vision
+- Visual inspection
+- Scene understanding
+- Object detection & tracking
+- Edge inference
+- Synthetic data generation
+- Multimodal reasoning
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
 ### 🤖 Agentic AI
 
-Exploring systems where AI can **reason, plan, use tools and execute workflows**.
+Exploring systems where AI can:
 
-**Focus**
-
-`Agents` · `Tools` · `Memory` · `Routing` · `RAG` · `MCP`
+- Understand intent
+- Plan tasks
+- Select models
+- Select tools
+- Execute workflows
+- Inspect results
+- Recover from failures
+- Learn from feedback
 
 </td>
 </tr>
 
 <tr>
-<td width="50%">
+<td width="50%" valign="top">
 
-### ⚡ Edge AI
+### ⚡ Edge Intelligence
 
-Taking intelligence closer to the data.
+Interested in running capable AI **where the data is created**.
 
-**Exploring**
+Currently exploring:
 
-`Jetson` · `ONNX` · `TensorRT` · `llama.cpp` · `Quantization` · `K3s`
+`Jetson` · `CUDA` · `llama.cpp` · `Ollama` · `Docker` · `K3s`
 
 </td>
 
-<td width="50%">
+<td width="50%" valign="top">
 
-### 🏭 Industrial AI
+### 🧠 AI Infrastructure
 
-Applying AI to manufacturing and FMCG environments.
+Designing the infrastructure around AI:
 
-**Focus**
+`Model Routing` · `RAG` · `Knowledge Graphs` · `MCP` · `Agents`
 
-`IoT` · `Sensors` · `Computer Vision` · `Analytics` · `Digital Operations`
+`Evaluation` · `Observability` · `Inference` · `Deployment`
 
 </td>
 </tr>
@@ -104,236 +117,181 @@ Applying AI to manufacturing and FMCG environments.
 
 ---
 
-# 🔬 Areas I Like Working On
+# 🔬 Current Research Playground
 
 ```text
-                    ┌─────────────────────┐
-                    │     INTELLIGENT     │
-                    │       SYSTEMS       │
-                    └──────────┬──────────┘
-                               │
-          ┌────────────────────┼────────────────────┐
-          │                    │                    │
-          ▼                    ▼                    ▼
-    ┌───────────┐        ┌───────────┐        ┌───────────┐
-    │   GEN AI  │        │ COMPUTER  │        │  EDGE AI  │
-    │  & AGENTS │        │   VISION  │        │ & ROBOTICS│
-    └─────┬─────┘        └─────┬─────┘        └─────┬─────┘
-          │                    │                    │
-          └────────────────────┼────────────────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │  PRODUCTION AI      │
-                    │  PLATFORMS          │
-                    └──────────┬──────────┘
-                               ▼
-                    ┌─────────────────────┐
-                    │ FMCG / INDUSTRIAL   │
-                    │      USE CASES      │
-                    └─────────────────────┘
+                     ┌──────────────────────────┐
+                     │       REAL WORLD         │
+                     │  Cameras · Sensors · Data│
+                     └────────────┬─────────────┘
+                                  │
+                                  ▼
+                     ┌──────────────────────────┐
+                     │       PERCEPTION         │
+                     │  Vision · Audio · IoT    │
+                     └────────────┬─────────────┘
+                                  │
+                                  ▼
+              ┌─────────────────────────────────────────┐
+              │              AI ENGINE                  │
+              │                                         │
+              │  LLMs · VLMs · SLMs · ML · DL · RL    │
+              └────────────────────┬────────────────────┘
+                                   │
+                                   ▼
+                     ┌──────────────────────────┐
+                     │      AGENTIC LAYER       │
+                     │                          │
+                     │ Plan → Act → Observe     │
+                     │       → Reflect          │
+                     └────────────┬─────────────┘
+                                  │
+                                  ▼
+                     ┌──────────────────────────┐
+                     │       PRODUCTION         │
+                     │ APIs · Containers · Edge │
+                     └──────────────────────────┘
 ```
+
+> **My goal:** build AI systems that don't just *predict* — they **perceive, reason, act and improve**.
 
 ---
 
-# 🧪 Things I'm Currently Exploring
+# 🛠️ Technology Stack
 
-### 🤖 Agentic AI
+### 🧠 AI / Machine Learning
 
-Building systems around:
+<p align="left">
 
-- Dynamic model routing
-- Tool-using agents
-- Multi-agent workflows
-- MCP
-- Knowledge graphs
-- Graph RAG
-- AI workflow orchestration
-- Local / private LLM inference
+<a href="https://www.python.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/></a>
+<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42"/></a>
+<a href="https://www.tensorflow.org/"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42"/></a>
+<a href="https://scikit-learn.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/></a>
+<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42"/></a>
+<a href="https://pandas.pydata.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="42"/></a>
 
-### 👁️ Computer Vision
-
-Exploring:
-
-- Vision-language models
-- Industrial visual inspection
-- Camera analytics
-- Object detection & tracking
-- Synthetic data
-- Edge inference
-- Privacy-preserving vision systems
-
-### ⚡ Small & Local AI
-
-Particularly interested in making AI **smaller, cheaper and closer to the user**.
-
-```text
-Large Models
-     ↓
-Distillation
-     ↓
-Quantization
-     ↓
-Optimized Runtime
-     ↓
-Edge Device
-     ↓
-Real-world Intelligence
-```
-
----
-
-# 🛠️ Technology Landscape
-
-### 🧠 AI / ML
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42"/>
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42"/>
 </p>
 
-**Python · PyTorch · TensorFlow · Scikit-learn · OpenCV · Transformers · Deep Learning · NLP · Computer Vision**
+### 👁️ Vision / Multimodal
 
-### 🤖 GenAI / LLM
+<p align="left">
 
-**LLMs · VLMs · RAG · Agents · MCP · Embeddings · Local LLMs · llama.cpp · Ollama · Model Routing**
+<a href="https://opencv.org/"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42"/></a>
+<a href="https://pytorch.org/"><img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42"/></a>
+<a href="https://www.blender.org/"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" width="42"/></a>
+<a href="https://unity.com/"><img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" width="42"/></a>
 
-### ☁️ Cloud & Infrastructure
-
-<p>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48"/>
-<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42"/>
-<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/>
 </p>
 
-**Docker · Kubernetes · K3s · Azure · AWS · GCP · Distributed Systems · APIs**
+### 🤖 GenAI / LLM Infrastructure
 
-### 🗄️ Data & Platforms
+<p align="left">
 
-**PostgreSQL · MySQL · Elasticsearch · Kibana · Vector Databases · Graph Databases · SQL · Data Pipelines**
+<img src="https://img.shields.io/badge/LLMs-Local%20%26%20Cloud-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/VLMs-Multimodal-purple?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agents-Agentic%20AI-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-Knowledge%20Systems-green?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MCP-Tool%20Integration-black?style=for-the-badge"/>
 
----
+</p>
 
-# 🚀 Selected Projects & Experiments
+### ☁️ Cloud / Infrastructure
 
-### 🧠 SensorChat
+<p align="left">
 
-**Conversational AI for industrial sensor data**
+<a href="https://aws.amazon.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/></a>
+<a href="https://azure.microsoft.com/"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42"/></a>
+<a href="https://cloud.google.com/"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42"/></a>
+<a href="https://www.docker.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48"/></a>
+<a href="https://kubernetes.io/"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="42"/></a>
+<a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="42"/></a>
 
-> Ask questions about plant telemetry in natural language and translate them into executable SQL.
+</p>
 
-`LLM` `SQL` `PostgreSQL` `IoT` `Agents` `Industrial AI`
+### 🗄️ Data / Backend
 
----
+<p align="left">
 
-### 👁️ Edge Vision Intelligence
+<a href="https://www.postgresql.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="48"/></a>
+<a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="48"/></a>
+<a href="https://www.elastic.co/"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" width="42"/></a>
+<a href="https://www.elastic.co/kibana"><img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" width="42"/></a>
 
-**Privacy-preserving camera analytics for industrial environments**
-
-Exploring lightweight vision systems capable of understanding:
-
-- occupancy
-- movement
-- zones
-- operational patterns
-- spatial behavior
-
-without requiring facial identification.
-
-`Computer Vision` `Edge AI` `Jetson` `Docker` `RTSP`
-
----
-
-### ✍️ AI Humanization / Detection
-
-Researching the boundary between **AI-generated and human-written text**.
-
-Experiments include:
-
-- AI text detection
-- stylometric analysis
-- perplexity
-- burstiness
-- lexical diversity
-- forensic scoring
-- ensemble models
-- RL-based text humanization
-
-`NLP` `Transformers` `RL` `Stylometry` `PyTorch`
+</p>
 
 ---
 
-### 🕸️ Codebase Intelligence
+# 🧪 Things I Like Building
 
-Exploring **knowledge graphs for software repositories** so AI agents can understand an existing codebase before making changes.
+```yaml
+AI:
+  - Computer Vision Systems
+  - Multimodal AI
+  - LLM / SLM Applications
+  - Agentic Workflows
+  - AI Evaluation Systems
+  - AI Model Routing
 
-```text
-Repository
-    ↓
-Code Parser
-    ↓
-AST / Symbols
-    ↓
-Dependency Graph
-    ↓
-Knowledge Graph
-    ↓
-Agent Context
-    ↓
-Better Code Changes
+Infrastructure:
+  - Local AI
+  - Edge Inference
+  - Dockerized AI
+  - Kubernetes / K3s
+  - Model Serving
+  - AI Platforms
+
+Data:
+  - RAG
+  - Knowledge Graphs
+  - Graph + SQL Systems
+  - Sensor Intelligence
+  - Data Pipelines
+
+Applied AI:
+  - FMCG
+  - Manufacturing
+  - Industrial IoT
+  - Machine Vision
+  - Real-time Analytics
 ```
 
-`Knowledge Graph` `RAG` `AST` `Agents` `Developer Tools`
+---
+
+# 🧠 Current Obsessions
+
+> **What happens when AI gets access to perception, tools and memory?**
+
+I'm particularly interested in:
+
+**01 — Agentic AI**
+
+Moving beyond chat interfaces toward systems that can independently plan and execute complex workflows.
+
+**02 — Small Models**
+
+Finding the smallest model that can solve the problem well enough — especially when latency, cost and privacy matter.
+
+**03 — Edge AI**
+
+Running increasingly capable intelligence directly on cameras, devices and industrial hardware.
+
+**04 — AI Evaluation**
+
+Building systems that can actually tell us whether an AI application is getting better.
+
+**05 — AI Infrastructure**
+
+The routing, orchestration, observability and tooling required to make AI systems reliable.
 
 ---
 
-# 💡 My Current AI Philosophy
-
-I increasingly think the future isn't simply:
-
-> **"Bigger models."**
-
-It's:
-
-> **Better systems around models.**
-
-That means combining:
-
-```text
-Models
-  +
-Tools
-  +
-Memory
-  +
-Data
-  +
-Knowledge
-  +
-Planning
-  +
-Evaluation
-  +
-Observability
-  +
-Human Feedback
-```
-
-into systems that can actually **do useful work**.
-
----
-
-# 📈 GitHub Activity
+# 📊 GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zerocool909&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=zerocool909&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerocool909&layout=compact&hide_border=true&langs_count=8" height="170"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerocool909&layout=compact&hide_border=true&theme=transparent" />
 
 </div>
 
@@ -341,40 +299,40 @@ into systems that can actually **do useful work**.
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zerocool909&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zerocool909&hide_border=true&theme=transparent" />
 
 </div>
 
 ---
 
-# 🤝 Let's Build Something Interesting
-
-I'm particularly interested in collaborating on projects involving:
-
-**AI Agents · Computer Vision · Edge AI · Robotics · Industrial AI · GenAI · Developer Tools · AI Infrastructure**
-
-If you're working on something technically ambitious, feel free to reach out.
-
----
+# 🌐 Connect
 
 <div align="center">
-
-### 📫 Connect
-
-<a href="mailto:aditya.raj.112358@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/>
-</a>
 
 <a href="https://stackoverflow.com/users/zerocool909">
-  <img src="https://img.shields.io/badge/Stack%20Overflow-zerocool909-orange?style=for-the-badge&logo=stackoverflow"/>
+<img src="https://img.shields.io/badge/Stack%20Overflow-zerocool909-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white"/>
 </a>
 
-<br/><br/>
+<a href="mailto:aditya.raj.112358@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-**AI · Vision · Agents · Edge · Industrial Intelligence**
+</div>
+
+---
+
+<div align="center">
+
+### ⚡ *Build systems, not demos.*
+
+**AI · Vision · Agents · Edge · Intelligence**
 
 <br/>
 
-*"Build systems, not demos."*
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"/>
+
+<br/>
+
+*Always researching. Always building.*
 
 </div>
