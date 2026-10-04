@@ -1,36 +1,380 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbW9oejhkNnZrd2lndXNnanZsZjlva3AzaDhpYW43cGY4cDNsYzdpNyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/du3J3cXyzhj75IOgvA/giphy.gif" width="100"/>
+<div align="center">
+
+# 👋 Hi, I'm Aditya Raj
+
+### **AI / ML Architect · Computer Vision · GenAI · Edge AI · Intelligent Systems**
+
+*Building AI systems that move from research → production → edge.*
+
+<br/>
+
+<a href="https://github.com/zerocool909">
+  <img src="https://komarev.com/ghpvc/?username=zerocool909&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views"/>
+</a>
+
 </div>
-<h1 align="center">Hi 👋, I'm aditya</h1>
+
+---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+
+> **I don't just build models.**
+>
+> **I build systems around them.**
+
 </div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=zerocool909&label=Profile%20views&color=0e75b6&style=flat" alt="zerocool909" /> </p>
-👨‍💻About Me </br>
-<p>I am an AI/ML Architect<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">from India.</p>
+---
 
-- 🔭 I’m currently working on **Developing components of a generic Computer Vision Platform**
+## 🧠 About Me
 
-- 🌱 I’m currently learning **Generative AI Art**
+I'm an **AI/ML Architect and Applied AI practitioner** focused on turning emerging AI capabilities into **production-grade intelligent systems**.
 
-- 👯 I’m looking to collaborate on **Machine Vision use-cases**
+My work sits at the intersection of:
 
-- 💬 Ask me about **AI/ML**
+- 🤖 **Generative AI & Agentic Systems**
+- 👁️ **Computer Vision & Deep Learning**
+- 📡 **IoT & Industrial Intelligence**
+- 🧠 **Machine Learning & NLP**
+- ⚡ **Edge AI & Model Optimization**
+- ☁️ **Cloud / Distributed AI Platforms**
+- 🏭 **AI for FMCG & Manufacturing**
 
-- 📫 How to reach me **aditya.raj.112358@gmail.com**
+I'm particularly interested in the hard part of AI:
 
-- ⚡ Fun fact **I spend most of my free time researching on AI**
+**How do we take a model and turn it into a reliable, observable, scalable product?**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://stackoverflow.com/users/zerocool909" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="zerocool909" height="30" width="40" /></a>
+---
+
+## 🚀 What I'm Building / Exploring
+
+<table>
+<tr>
+<td width="50%">
+
+### 👁️ Computer Vision
+
+Building scalable CV systems for real-world environments.
+
+**Focus**
+
+`Detection` · `Segmentation` · `Tracking` · `Visual Analytics` · `Edge Inference`
+
+</td>
+
+<td width="50%">
+
+### 🤖 Agentic AI
+
+Exploring systems where AI can **reason, plan, use tools and execute workflows**.
+
+**Focus**
+
+`Agents` · `Tools` · `Memory` · `Routing` · `RAG` · `MCP`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### ⚡ Edge AI
+
+Taking intelligence closer to the data.
+
+**Exploring**
+
+`Jetson` · `ONNX` · `TensorRT` · `llama.cpp` · `Quantization` · `K3s`
+
+</td>
+
+<td width="50%">
+
+### 🏭 Industrial AI
+
+Applying AI to manufacturing and FMCG environments.
+
+**Focus**
+
+`IoT` · `Sensors` · `Computer Vision` · `Analytics` · `Digital Operations`
+
+</td>
+</tr>
+</table>
+
+---
+
+# 🔬 Areas I Like Working On
+
+```text
+                    ┌─────────────────────┐
+                    │     INTELLIGENT     │
+                    │       SYSTEMS       │
+                    └──────────┬──────────┘
+                               │
+          ┌────────────────────┼────────────────────┐
+          │                    │                    │
+          ▼                    ▼                    ▼
+    ┌───────────┐        ┌───────────┐        ┌───────────┐
+    │   GEN AI  │        │ COMPUTER  │        │  EDGE AI  │
+    │  & AGENTS │        │   VISION  │        │ & ROBOTICS│
+    └─────┬─────┘        └─────┬─────┘        └─────┬─────┘
+          │                    │                    │
+          └────────────────────┼────────────────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │  PRODUCTION AI      │
+                    │  PLATFORMS          │
+                    └──────────┬──────────┘
+                               ▼
+                    ┌─────────────────────┐
+                    │ FMCG / INDUSTRIAL   │
+                    │      USE CASES      │
+                    └─────────────────────┘
+```
+
+---
+
+# 🧪 Things I'm Currently Exploring
+
+### 🤖 Agentic AI
+
+Building systems around:
+
+- Dynamic model routing
+- Tool-using agents
+- Multi-agent workflows
+- MCP
+- Knowledge graphs
+- Graph RAG
+- AI workflow orchestration
+- Local / private LLM inference
+
+### 👁️ Computer Vision
+
+Exploring:
+
+- Vision-language models
+- Industrial visual inspection
+- Camera analytics
+- Object detection & tracking
+- Synthetic data
+- Edge inference
+- Privacy-preserving vision systems
+
+### ⚡ Small & Local AI
+
+Particularly interested in making AI **smaller, cheaper and closer to the user**.
+
+```text
+Large Models
+     ↓
+Distillation
+     ↓
+Quantization
+     ↓
+Optimized Runtime
+     ↓
+Edge Device
+     ↓
+Real-world Intelligence
+```
+
+---
+
+# 🛠️ Technology Landscape
+
+### 🧠 AI / ML
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="42"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="42"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.elastic.co" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.elastic.co/kibana" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/elasticco_kibana/elasticco_kibana-icon.svg" alt="kibana" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
+**Python · PyTorch · TensorFlow · Scikit-learn · OpenCV · Transformers · Deep Learning · NLP · Computer Vision**
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=zerocool909&show_icons=true&locale=en&layout=compact" alt="zerocool909" /></p>
+### 🤖 GenAI / LLM
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zerocool909&" alt="zerocool909" /></p>
+**LLMs · VLMs · RAG · Agents · MCP · Embeddings · Local LLMs · llama.cpp · Ollama · Model Routing**
+
+### ☁️ Cloud & Infrastructure
+
+<p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="48"/>
+<img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="42"/>
+<img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="42"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48"/>
+</p>
+
+**Docker · Kubernetes · K3s · Azure · AWS · GCP · Distributed Systems · APIs**
+
+### 🗄️ Data & Platforms
+
+**PostgreSQL · MySQL · Elasticsearch · Kibana · Vector Databases · Graph Databases · SQL · Data Pipelines**
+
+---
+
+# 🚀 Selected Projects & Experiments
+
+### 🧠 SensorChat
+
+**Conversational AI for industrial sensor data**
+
+> Ask questions about plant telemetry in natural language and translate them into executable SQL.
+
+`LLM` `SQL` `PostgreSQL` `IoT` `Agents` `Industrial AI`
+
+---
+
+### 👁️ Edge Vision Intelligence
+
+**Privacy-preserving camera analytics for industrial environments**
+
+Exploring lightweight vision systems capable of understanding:
+
+- occupancy
+- movement
+- zones
+- operational patterns
+- spatial behavior
+
+without requiring facial identification.
+
+`Computer Vision` `Edge AI` `Jetson` `Docker` `RTSP`
+
+---
+
+### ✍️ AI Humanization / Detection
+
+Researching the boundary between **AI-generated and human-written text**.
+
+Experiments include:
+
+- AI text detection
+- stylometric analysis
+- perplexity
+- burstiness
+- lexical diversity
+- forensic scoring
+- ensemble models
+- RL-based text humanization
+
+`NLP` `Transformers` `RL` `Stylometry` `PyTorch`
+
+---
+
+### 🕸️ Codebase Intelligence
+
+Exploring **knowledge graphs for software repositories** so AI agents can understand an existing codebase before making changes.
+
+```text
+Repository
+    ↓
+Code Parser
+    ↓
+AST / Symbols
+    ↓
+Dependency Graph
+    ↓
+Knowledge Graph
+    ↓
+Agent Context
+    ↓
+Better Code Changes
+```
+
+`Knowledge Graph` `RAG` `AST` `Agents` `Developer Tools`
+
+---
+
+# 💡 My Current AI Philosophy
+
+I increasingly think the future isn't simply:
+
+> **"Bigger models."**
+
+It's:
+
+> **Better systems around models.**
+
+That means combining:
+
+```text
+Models
+  +
+Tools
+  +
+Memory
+  +
+Data
+  +
+Knowledge
+  +
+Planning
+  +
+Evaluation
+  +
+Observability
+  +
+Human Feedback
+```
+
+into systems that can actually **do useful work**.
+
+---
+
+# 📈 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=zerocool909&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zerocool909&layout=compact&hide_border=true&langs_count=8" height="170"/>
+
+</div>
+
+<br/>
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=zerocool909&hide_border=true" />
+
+</div>
+
+---
+
+# 🤝 Let's Build Something Interesting
+
+I'm particularly interested in collaborating on projects involving:
+
+**AI Agents · Computer Vision · Edge AI · Robotics · Industrial AI · GenAI · Developer Tools · AI Infrastructure**
+
+If you're working on something technically ambitious, feel free to reach out.
+
+---
+
+<div align="center">
+
+### 📫 Connect
+
+<a href="mailto:aditya.raj.112358@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-blue?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://stackoverflow.com/users/zerocool909">
+  <img src="https://img.shields.io/badge/Stack%20Overflow-zerocool909-orange?style=for-the-badge&logo=stackoverflow"/>
+</a>
+
+<br/><br/>
+
+**AI · Vision · Agents · Edge · Industrial Intelligence**
+
+<br/>
+
+*"Build systems, not demos."*
+
+</div>
